@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bonjour,+👋;Bienvenue+sur+Lexweb;&center=true&size=30">
+  </a>
+</h1>
+<p align="center">
+Je m'appelle Alexandre et je suis ingénieur en développement / data engineer.</br></br>
+CONTACT:</br>
+📧 alexandretoto.dev@gmail.com
+</p>
 
-<!--
-**Lexweb33/Lexweb33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-----------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vous pouvez me retrouver :
+
+- sur [Linkedin](https://www.linkedin.com/in/alexandre-toto-00b2941b2/)
+- sur [Gitlab](https://gitlab.com/Alexandre_Toto)
+
+------------------------------------------------------------------------------------
+
+### 🔥 Langages et Framework 🔥
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=php)](https://github.com/harish-sethuraman/readme-components) 
+
+  Framework Python:
+
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=django)](https://github.com/harish-sethuraman/readme-components)
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=flask)](https://github.com/harish-sethuraman/readme-components) 
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=fastapi)](https://github.com/harish-sethuraman/readme-components) 
+
+  Framework Csharp:
+
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=asp.net)](https://github.com/harish-sethuraman/readme-components) 
+    
+  Framework Php:
+  
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=symfony)](https://github.com/harish-sethuraman/readme-components) 
+---------------------------------------------------------------------------------------
+
