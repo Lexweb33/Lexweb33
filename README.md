@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bonjour,+👋;Bienvenue+sur+Lexweb;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;Welcome+to+Lexweb;&center=true&size=30">
   </a>
 </h1>
 <p align="center">
-Je m'appelle Alexandre et je suis ingénieur en développement / data engineer.</br></br>
+Hi ! My name is Alexweb, and I am a Python developer. / data engineer.</br></br>
 CONTACT:</br>
 📧 alexandretoto.dev@gmail.com
 </p>
